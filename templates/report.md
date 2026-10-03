@@ -85,3 +85,32 @@
 - 交给法务：
 - 需补充的素材或信息：
 - 参考资料可能过期的条目：
+
+---
+
+## 英文报告用语 / English report wording
+
+输出英文报告时，标题按下表翻译，两条固定声明使用以下英文原文。
+
+| 中文 | English |
+| --- | --- |
+| 角色文化预审报告 | Character Cultural Pre-Review Report |
+| 审查结论 | Review Verdict |
+| 风险定位表 | Risk Map |
+| 概念图标注 | Concept Art Annotations |
+| 当地受众读法推演 | Local Audience Reading |
+| 两套处理方案 | Two Response Options |
+| 方案 A · 修改设计 | Option A · Revise the Design |
+| 方案 B · 坚持原设计的缓冲方案 | Option B · Keep the Design, Mitigate the Risk |
+| 回流检查 | Home-Market Spillover Check |
+| 需人工确认事项 | Items Requiring Human Review |
+| 定稿前必须由当地顾问复核 | Must be reviewed by a local consultant before sign-off |
+| 可以推进 / 修改后推进 / 建议重新设计 | Proceed / Proceed with changes / Redesign recommended |
+| 核实市场 / 初步参考市场 / 无参考市场 | Verified market / Preliminary market / No reference |
+| 明确风险 / 可能风险 / 需确认 | Confirmed risk / Possible risk / Needs confirmation |
+
+高风险门槛声明：
+> This character involves highly sensitive references. This report does not replace review by a local consultant; do not finalize the design until that review is complete.
+
+热评声明：
+> The comments below are AI-generated and only illustrate possible directions of reaction. Their tone and wording may not reflect real local online discourse. Have a native speaker review them before launch, and do not use them directly as a PR response plan.
