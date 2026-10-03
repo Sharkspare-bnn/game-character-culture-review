@@ -43,7 +43,15 @@ examples/walkthrough.md   完整示例（虚构角色）
 
 ### 使用方法
 
-下载本仓库（Code → Download ZIP），在 Claude 的 设置 → 功能 → Skills 中上传。之后提供角色设定与目标市场即可触发。
+**Claude 网页版 / App：** 下载本仓库（Code → Download ZIP），在 Claude 的 设置 → 功能 → Skills 中上传。
+
+**Claude Code 等命令行工具：**
+
+```bash
+npx skills add Sharkspare-bnn/game-character-culture-review
+```
+
+安装后，提供角色设定与目标市场即可触发。
 
 ### 重要说明
 
@@ -93,7 +101,15 @@ examples/walkthrough.md   Full worked example (fictional character)
 
 ### How to use
 
-Download this repository (Code → Download ZIP) and upload it in Claude under Settings → Capabilities → Skills. Then share a character brief and target markets to trigger it.
+**Claude web / app:** download this repository (Code → Download ZIP) and upload it in Claude under Settings → Capabilities → Skills.
+
+**Claude Code and other CLI agents:**
+
+```bash
+npx skills add Sharkspare-bnn/game-character-culture-review
+```
+
+Then share a character brief and target markets to trigger it.
 
 ### Important notes
 
